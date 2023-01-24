@@ -93,7 +93,7 @@
 		},
 		{
 			"Name": "OWLLivestreamingToolkit",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
 			"SupportedTargetPlatforms": [
 				"Win64"
@@ -119,6 +119,11 @@
 		{
 			"Name": "ElectraUtil",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenCVPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/21bd77bd67b7445f9d5d54a2f7566b05"
 		}
 	],
 	"TargetPlatforms": [
