@@ -1,0 +1,1698 @@
+Player: WmfMedia
+
+Play Rates
+    Thinned: Not supported
+    Unthinned: 0.0
+
+Capabilities
+    Scrubbing: Yes
+    Seeking: No
+
+Stream 0
+	Type: Video
+	Format 0
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 480
+	Format 1
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 480
+	Format 2
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 480
+	Format 3
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 480
+	Format 4
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 480
+	Format 5
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 480
+	Format 6
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 480
+	Format 7
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 90
+	Format 8
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 90
+	Format 9
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 90
+	Format 10
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 90
+	Format 11
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 90
+	Format 12
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 90
+	Format 13
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 90
+	Format 14
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 120
+	Format 15
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 120
+	Format 16
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 120
+	Format 17
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 120
+	Format 18
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 120
+	Format 19
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 120
+	Format 20
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 120
+	Format 21
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 176 x 144
+	Format 22
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 176 x 144
+	Format 23
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 176 x 144
+	Format 24
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 176 x 144
+	Format 25
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 176 x 144
+	Format 26
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 176 x 144
+	Format 27
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 176 x 144
+	Format 28
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 180
+	Format 29
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 180
+	Format 30
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 180
+	Format 31
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 180
+	Format 32
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 180
+	Format 33
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 180
+	Format 34
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 180
+	Format 35
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 240
+	Format 36
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 240
+	Format 37
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 240
+	Format 38
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 240
+	Format 39
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 240
+	Format 40
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 240
+	Format 41
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 240
+	Format 42
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 352 x 288
+	Format 43
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 352 x 288
+	Format 44
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 352 x 288
+	Format 45
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 352 x 288
+	Format 46
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 352 x 288
+	Format 47
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 352 x 288
+	Format 48
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 352 x 288
+	Format 49
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 432 x 240
+	Format 50
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 432 x 240
+	Format 51
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 432 x 240
+	Format 52
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 432 x 240
+	Format 53
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 432 x 240
+	Format 54
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 432 x 240
+	Format 55
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 432 x 240
+	Format 56
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 360
+	Format 57
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 360
+	Format 58
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 360
+	Format 59
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 360
+	Format 60
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 360
+	Format 61
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 360
+	Format 62
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 360
+	Format 63
+		Codec: YUY2
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 800 x 448
+	Format 64
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 448
+	Format 65
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 448
+	Format 66
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 448
+	Format 67
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 448
+	Format 68
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 448
+	Format 69
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 448
+	Format 70
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 600
+	Format 71
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 600
+	Format 72
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 600
+	Format 73
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 600
+	Format 74
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 600
+	Format 75
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 600
+	Format 76
+		Codec: YUY2
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 864 x 480
+	Format 77
+		Codec: YUY2
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 864 x 480
+	Format 78
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 864 x 480
+	Format 79
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 864 x 480
+	Format 80
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 864 x 480
+	Format 81
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 864 x 480
+	Format 82
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 960 x 720
+	Format 83
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 960 x 720
+	Format 84
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 960 x 720
+	Format 85
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 960 x 720
+	Format 86
+		Codec: YUY2
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1024 x 576
+	Format 87
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1024 x 576
+	Format 88
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1024 x 576
+	Format 89
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1024 x 576
+	Format 90
+		Codec: YUY2
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1280 x 720
+	Format 91
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1280 x 720
+	Format 92
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1280 x 720
+	Format 93
+		Codec: YUY2
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1600 x 896
+	Format 94
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1600 x 896
+	Format 95
+		Codec: YUY2
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1920 x 1080
+	Format 96
+		Codec: YUY2
+		Frame Rate: 2 fps
+		Frame Rate Range: 2 - 2 fps
+		Dimensions: 2304 x 1296
+	Format 97
+		Codec: YUY2
+		Frame Rate: 2 fps
+		Frame Rate Range: 2 - 2 fps
+		Dimensions: 2304 x 1536
+	Format 98
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 480
+	Format 99
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 480
+	Format 100
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 480
+	Format 101
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 480
+	Format 102
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 480
+	Format 103
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 480
+	Format 104
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 480
+	Format 105
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 480
+	Format 106
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 480
+	Format 107
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 480
+	Format 108
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 480
+	Format 109
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 480
+	Format 110
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 480
+	Format 111
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 480
+	Format 112
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 90
+	Format 113
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 90
+	Format 114
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 90
+	Format 115
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 90
+	Format 116
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 90
+	Format 117
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 90
+	Format 118
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 90
+	Format 119
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 90
+	Format 120
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 90
+	Format 121
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 90
+	Format 122
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 90
+	Format 123
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 90
+	Format 124
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 90
+	Format 125
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 90
+	Format 126
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 120
+	Format 127
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 160 x 120
+	Format 128
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 120
+	Format 129
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 160 x 120
+	Format 130
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 120
+	Format 131
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 160 x 120
+	Format 132
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 120
+	Format 133
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 160 x 120
+	Format 134
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 120
+	Format 135
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 160 x 120
+	Format 136
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 120
+	Format 137
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 160 x 120
+	Format 138
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 120
+	Format 139
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 160 x 120
+	Format 140
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 176 x 144
+	Format 141
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 176 x 144
+	Format 142
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 176 x 144
+	Format 143
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 176 x 144
+	Format 144
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 176 x 144
+	Format 145
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 176 x 144
+	Format 146
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 176 x 144
+	Format 147
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 176 x 144
+	Format 148
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 176 x 144
+	Format 149
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 176 x 144
+	Format 150
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 176 x 144
+	Format 151
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 176 x 144
+	Format 152
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 176 x 144
+	Format 153
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 176 x 144
+	Format 154
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 180
+	Format 155
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 180
+	Format 156
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 180
+	Format 157
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 180
+	Format 158
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 180
+	Format 159
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 180
+	Format 160
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 180
+	Format 161
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 180
+	Format 162
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 180
+	Format 163
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 180
+	Format 164
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 180
+	Format 165
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 180
+	Format 166
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 180
+	Format 167
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 180
+	Format 168
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 240
+	Format 169
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 320 x 240
+	Format 170
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 240
+	Format 171
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 320 x 240
+	Format 172
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 240
+	Format 173
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 320 x 240
+	Format 174
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 240
+	Format 175
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 320 x 240
+	Format 176
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 240
+	Format 177
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 320 x 240
+	Format 178
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 240
+	Format 179
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 320 x 240
+	Format 180
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 240
+	Format 181
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 320 x 240
+	Format 182
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 352 x 288
+	Format 183
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 352 x 288
+	Format 184
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 352 x 288
+	Format 185
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 352 x 288
+	Format 186
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 352 x 288
+	Format 187
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 352 x 288
+	Format 188
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 352 x 288
+	Format 189
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 352 x 288
+	Format 190
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 352 x 288
+	Format 191
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 352 x 288
+	Format 192
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 352 x 288
+	Format 193
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 352 x 288
+	Format 194
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 352 x 288
+	Format 195
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 352 x 288
+	Format 196
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 432 x 240
+	Format 197
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 432 x 240
+	Format 198
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 432 x 240
+	Format 199
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 432 x 240
+	Format 200
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 432 x 240
+	Format 201
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 432 x 240
+	Format 202
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 432 x 240
+	Format 203
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 432 x 240
+	Format 204
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 432 x 240
+	Format 205
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 432 x 240
+	Format 206
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 432 x 240
+	Format 207
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 432 x 240
+	Format 208
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 432 x 240
+	Format 209
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 432 x 240
+	Format 210
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 360
+	Format 211
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 640 x 360
+	Format 212
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 360
+	Format 213
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 640 x 360
+	Format 214
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 360
+	Format 215
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 640 x 360
+	Format 216
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 360
+	Format 217
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 640 x 360
+	Format 218
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 360
+	Format 219
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 640 x 360
+	Format 220
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 360
+	Format 221
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 640 x 360
+	Format 222
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 360
+	Format 223
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 640 x 360
+	Format 224
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 800 x 448
+	Format 225
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 800 x 448
+	Format 226
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 448
+	Format 227
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 448
+	Format 228
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 448
+	Format 229
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 448
+	Format 230
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 448
+	Format 231
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 448
+	Format 232
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 448
+	Format 233
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 448
+	Format 234
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 448
+	Format 235
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 448
+	Format 236
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 448
+	Format 237
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 448
+	Format 238
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 800 x 600
+	Format 239
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 800 x 600
+	Format 240
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 600
+	Format 241
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 800 x 600
+	Format 242
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 600
+	Format 243
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 800 x 600
+	Format 244
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 600
+	Format 245
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 800 x 600
+	Format 246
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 600
+	Format 247
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 800 x 600
+	Format 248
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 600
+	Format 249
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 800 x 600
+	Format 250
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 600
+	Format 251
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 800 x 600
+	Format 252
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 864 x 480
+	Format 253
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 864 x 480
+	Format 254
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 864 x 480
+	Format 255
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 864 x 480
+	Format 256
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 864 x 480
+	Format 257
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 864 x 480
+	Format 258
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 864 x 480
+	Format 259
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 864 x 480
+	Format 260
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 864 x 480
+	Format 261
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 864 x 480
+	Format 262
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 864 x 480
+	Format 263
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 864 x 480
+	Format 264
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 864 x 480
+	Format 265
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 864 x 480
+	Format 266
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 960 x 720
+	Format 267
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 960 x 720
+	Format 268
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 960 x 720
+	Format 269
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 960 x 720
+	Format 270
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 960 x 720
+	Format 271
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 960 x 720
+	Format 272
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 960 x 720
+	Format 273
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 960 x 720
+	Format 274
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 960 x 720
+	Format 275
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 960 x 720
+	Format 276
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 960 x 720
+	Format 277
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 960 x 720
+	Format 278
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 960 x 720
+	Format 279
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 960 x 720
+	Format 280
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1024 x 576
+	Format 281
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1024 x 576
+	Format 282
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1024 x 576
+	Format 283
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1024 x 576
+	Format 284
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1024 x 576
+	Format 285
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1024 x 576
+	Format 286
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1024 x 576
+	Format 287
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1024 x 576
+	Format 288
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1024 x 576
+	Format 289
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1024 x 576
+	Format 290
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1024 x 576
+	Format 291
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1024 x 576
+	Format 292
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1024 x 576
+	Format 293
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1024 x 576
+	Format 294
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1280 x 720
+	Format 295
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1280 x 720
+	Format 296
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1280 x 720
+	Format 297
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1280 x 720
+	Format 298
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1280 x 720
+	Format 299
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1280 x 720
+	Format 300
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1280 x 720
+	Format 301
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1280 x 720
+	Format 302
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1280 x 720
+	Format 303
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1280 x 720
+	Format 304
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1280 x 720
+	Format 305
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1280 x 720
+	Format 306
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1280 x 720
+	Format 307
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1280 x 720
+	Format 308
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1600 x 896
+	Format 309
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1600 x 896
+	Format 310
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1600 x 896
+	Format 311
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1600 x 896
+	Format 312
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1600 x 896
+	Format 313
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1600 x 896
+	Format 314
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1600 x 896
+	Format 315
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1600 x 896
+	Format 316
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1600 x 896
+	Format 317
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1600 x 896
+	Format 318
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1600 x 896
+	Format 319
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1600 x 896
+	Format 320
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1600 x 896
+	Format 321
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1600 x 896
+	Format 322
+		Codec: NV12
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1920 x 1080
+	Format 323
+		Codec: MJPG
+		Frame Rate: 30 fps
+		Frame Rate Range: 30 - 30 fps
+		Dimensions: 1920 x 1080
+	Format 324
+		Codec: NV12
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1920 x 1080
+	Format 325
+		Codec: MJPG
+		Frame Rate: 24 fps
+		Frame Rate Range: 24 - 24 fps
+		Dimensions: 1920 x 1080
+	Format 326
+		Codec: NV12
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1920 x 1080
+	Format 327
+		Codec: MJPG
+		Frame Rate: 20 fps
+		Frame Rate Range: 20 - 20 fps
+		Dimensions: 1920 x 1080
+	Format 328
+		Codec: NV12
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1920 x 1080
+	Format 329
+		Codec: MJPG
+		Frame Rate: 15 fps
+		Frame Rate Range: 15 - 15 fps
+		Dimensions: 1920 x 1080
+	Format 330
+		Codec: NV12
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1920 x 1080
+	Format 331
+		Codec: MJPG
+		Frame Rate: 10 fps
+		Frame Rate Range: 10 - 10 fps
+		Dimensions: 1920 x 1080
+	Format 332
+		Codec: NV12
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1920 x 1080
+	Format 333
+		Codec: MJPG
+		Frame Rate: 7.5 fps
+		Frame Rate Range: 7.5 - 7.5 fps
+		Dimensions: 1920 x 1080
+	Format 334
+		Codec: NV12
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1920 x 1080
+	Format 335
+		Codec: MJPG
+		Frame Rate: 5 fps
+		Frame Rate Range: 5 - 5 fps
+		Dimensions: 1920 x 1080
+
+Audio Tracks
+	none
+Video Tracks
+	Unnamed Track (Stream 0)
+		Not implemented yet

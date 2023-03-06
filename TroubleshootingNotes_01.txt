@@ -1,0 +1,29 @@
+https://youtu.be/0ETCx_qMgWQ
+
+http://www.youtube.com/embed/0ETCx_qMgWQ
+
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/0ETCx_qMgWQ" width="420"></iframe>
+
+
+Twitch
+rtmp://atl.contribute.live-video.net/app/{stream_key}
+ 
+live_716589609_R0tXoeKWUXUq3ynvcFiUAKTcatQhjm
+
+rtmp://atl.contribute.live-video.net/app/live_716589609_R0tXoeKWUXUq3ynvcFiUAKTcatQhjm
+
+
+Amazon
+
+
+https://8459b3c94de9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.762877472813.channel.KHtIpzSb7Ul2.m3u8
+
+
+rtmps://8459b3c94de9.global-contribute.live-video.net:443/app/sk_us-east-1_wcrdtB2dj3F8_yAxNYtyAfZYeSM5mUidaSmmB92pNQc
+
+
+
+https://8459b3c94de9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.762877472813.channel.Chkm6GbhPudB.m3u8
+
+Webcam plugin works but has a 20 second delay
