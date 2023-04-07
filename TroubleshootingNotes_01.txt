@@ -26,4 +26,7 @@ rtmps://8459b3c94de9.global-contribute.live-video.net:443/app/sk_us-east-1_wcrdt
 
 https://8459b3c94de9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.762877472813.channel.Chkm6GbhPudB.m3u8
 
-Webcam plugin works but has a 20 second delay
+Webcam plugin works but has a 40!!! second delay
+
+Currently about 15 seconds behind but that changes
+If the engine isn't the primary window it freezes and then tries to catch up
