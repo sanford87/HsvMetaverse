@@ -106,19 +106,19 @@
 		},
 		{
 			"Name": "ElectraPlayer",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ElectraCDM",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ElectraSubtitles",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ElectraUtil",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "OpenCVPlugin",
@@ -129,6 +129,10 @@
 			"Name": "WebCameraPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3ddb95273699400286e446c5515e9208"
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
