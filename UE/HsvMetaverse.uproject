@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -124,11 +124,6 @@
 			"Name": "OpenCVPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/21bd77bd67b7445f9d5d54a2f7566b05"
-		},
-		{
-			"Name": "WebCameraPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3ddb95273699400286e446c5515e9208"
 		},
 		{
 			"Name": "Takes",
